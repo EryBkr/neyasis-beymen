@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  envDb:
+    image: redis
+
+  
+volumes:
+  envDb_data:

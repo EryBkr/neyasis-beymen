@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisClassLibrary", "RedisClassLibrary\RedisClassLibrary.csproj", "{7415FFC5-01BC-4791-821D-CA1D2F57F075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisTestAPI", "RedisTestAPI\RedisTestAPI.csproj", "{625C5FA2-EE57-4EFA-A96D-BF804E131DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7415FFC5-01BC-4791-821D-CA1D2F57F075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7415FFC5-01BC-4791-821D-CA1D2F57F075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7415FFC5-01BC-4791-821D-CA1D2F57F075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7415FFC5-01BC-4791-821D-CA1D2F57F075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{625C5FA2-EE57-4EFA-A96D-BF804E131DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625C5FA2-EE57-4EFA-A96D-BF804E131DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625C5FA2-EE57-4EFA-A96D-BF804E131DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625C5FA2-EE57-4EFA-A96D-BF804E131DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0BACE96-46FA-4C2A-BD86-71B12F2CF880}
+	EndGlobalSection
+EndGlobal

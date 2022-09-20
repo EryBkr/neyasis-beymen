@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  envDb:
+    container_name: envDb
+    restart: always
+    ports: 
+      - "6379:6379"
+    volumes: 
+      - envDb_data:/data
